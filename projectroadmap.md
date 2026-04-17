@@ -1,4 +1,5 @@
 - [x] Create repository and add description
 - [x] Fork it to KSU-IS
-- [] Create Read.me
-- [] Upload code from other repo that can help on my project
+- [x] Create Read.me
+- [x] Upload code from Tripadvise repo for my project https://github.com/ksu-is/Tripadvise.git
+- [ ] 
