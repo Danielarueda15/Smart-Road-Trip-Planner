@@ -8,6 +8,7 @@ Sprint 1 Tasks Checklist
 
 
 Sprint 2 Taks Checklist
+
 -[] start with trip destinations
 -[] enter miles and gas info
 -[] calculate fuel costs
