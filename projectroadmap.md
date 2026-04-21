@@ -8,9 +8,9 @@ Sprint 1 Tasks Checklist
 
 
 Sprint 2 Taks Checklist
-
-- [] start with trip destinations
+- [] create main program
+- [] best route for trip destination
 - [] enter miles and gas info
 - [] calculate fuel costs
 - [] split cost between travelers feature
-- [] total estimmated trip cost
+- [] total estimated trip cost
